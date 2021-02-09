@@ -26,3 +26,5 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/807.ts
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.ts
 #EXTINF:0,Super 3
 http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:-1,Antena 3 Int'l
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
