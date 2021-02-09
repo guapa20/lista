@@ -2,36 +2,27 @@
 
 #EXTINF:-1,CANAL COCINA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.ts
-
 #EXTINF:-1,VH1 (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/770.ts
-
 #EXTINF:-1,M. ESTRENOS HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.ts
-
 #EXTINF:-1,ENERGY (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/800.ts
-
-#EXTINF:-1,DIVINITY (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/801.ts
-
-#EXTINF:-1,FDF (ES)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.ts
-
+#EXTINF:-1, Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1, FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1,NOVA (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.ts
-
 #EXTINF:-1,LA SEXTA HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.ts
-
 #EXTINF:-1,TELECINCO HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/805.ts
-
 #EXTINF:-1,CUATRO HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/806.ts
-
 #EXTINF:-1,ANTENA 3 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/807.ts
-
 #EXTINF:-1,LA1 HD (ES)
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.ts
+#EXTINF:0,Super 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
